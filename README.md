@@ -24,7 +24,7 @@ Berfungsi untuk menghapus data penerima <br>
 Berfungsi jika ingin keluar dari program <br>
 
 #Pilihan 1
-<img width="478" height="137" alt="image" src="https://github.com/user-attachments/assets/905eefbd-4d39-4386-b7e6-249e1f5b2ec7" /> <br>
+<br> <img width="478" height="137" alt="image" src="https://github.com/user-attachments/assets/905eefbd-4d39-4386-b7e6-249e1f5b2ec7" /> 
 
 Jika memilih pilihan 1 maka sistem akan meminta Nama, NIK, Alamat, dan Jenis bantuan. Lalu menyimpan data tersebut akan tersimpan <br>
 
