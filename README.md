@@ -10,6 +10,7 @@ Kelas : Sistem Informasi A 2025 <br>
 
 # Menu Utama
 <img width="352" height="220" alt="image" src="https://github.com/user-attachments/assets/6511288d-36c9-4ef1-ad4d-aa041d3101e3" /> 
+
 Menu utama terdapat 5 pilihan yaitu : <br>
 1. Tambah penerima <br>
 Berfungsi untuk menambahkan data penerima yang baru <br>
