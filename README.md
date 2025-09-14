@@ -29,21 +29,21 @@ Berfungsi jika ingin keluar dari program <br>
 Jika memilih pilihan 1 maka sistem akan meminta Nama, NIK, Alamat, dan Jenis bantuan. Lalu menyimpan data tersebut akan tersimpan <br>
 
 #Pilihan 2
-<img width="294" height="227" alt="image" src="https://github.com/user-attachments/assets/23a5eb5d-6fc6-4a8e-8783-1de311ac59c4" /> <br>
+<br> <img width="294" height="227" alt="image" src="https://github.com/user-attachments/assets/23a5eb5d-6fc6-4a8e-8783-1de311ac59c4" /> 
 
 Jika memilih pilihan 2 maka sistem akan melihatkan semua daftar penerima yang telah di input berupa Nama, NIK, Alamat, dan Jenis bantuan <br>
 
 #Pilihan 3
-<img width="321" height="160" alt="image" src="https://github.com/user-attachments/assets/7cb081e4-d637-4b21-8dbd-a847840bb63d" /> <br>
+<br> <img width="321" height="160" alt="image" src="https://github.com/user-attachments/assets/7cb081e4-d637-4b21-8dbd-a847840bb63d" /> 
 
 Jika memilih pilihan 3 maka sistem akan meminta NIK yang ingin diubah, lalu sistem akan meminta Nama, Alamat, Jenis bantuan yang baru <br>
 
 #Pilihan 4
-<img width="325" height="123" alt="image" src="https://github.com/user-attachments/assets/17040622-eb23-43a7-8d22-aa5df7dd142b" /> <br>
+<br> <img width="325" height="123" alt="image" src="https://github.com/user-attachments/assets/17040622-eb23-43a7-8d22-aa5df7dd142b" /> 
 
 Jika memilih pilihan 4 maka sistem akan meminta NIK yang ingin dihapus, lalu sistem akan menghapus data tersebut <br>
 
 #Pilihan 5
-<img width="258" height="215" alt="image" src="https://github.com/user-attachments/assets/4eff3f53-84b5-4698-b5b2-8e515c284097" /> <br>
+<br> <img width="258" height="215" alt="image" src="https://github.com/user-attachments/assets/4eff3f53-84b5-4698-b5b2-8e515c284097" /> 
 
 Jika memilih pilihan 5 maka sistem akan menampilkan pesan "Sampai jumpa!" <br>
